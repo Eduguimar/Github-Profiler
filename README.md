@@ -1,4 +1,4 @@
-# api-conversao
+# GITHUB PROFILER
 
 Basic app to search for Github profiles from DevSuperior channel.
 
